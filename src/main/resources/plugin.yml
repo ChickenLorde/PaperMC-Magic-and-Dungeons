@@ -1,0 +1,21 @@
+#file: noinspection SpellCheckingInspection
+
+name: oakymagicplugin
+version: '1.0'
+main: me.oakyplugin.oakymagicplugin.OakyMagicPlugin
+api-version: '1.21'
+description: magic
+
+commands:
+  resetplayer:
+  getspell:
+  stats:
+  accessories:
+  getaccessory:
+  getcustomitem:
+  spelldamageself:
+  forcecast:
+  spawncustom:
+  genhallway:
+  gendungeon:
+  getroom:
